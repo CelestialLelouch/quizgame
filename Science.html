@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="Science.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
+
+    <title>Science for Kids</title>
+    <script src="questions.mjs"></script>
+    <script>
+      function gamesong(){
+        document.getElementById('background-music').play();
+      }
+
+      function startGame() {
+        document.getElementById('action-music').volume = 0.5;
+        document.getElementById('background-music').play();
+        document.getElementById('holder').style.display = 'none';
+        document.getElementById('quiz').style.display = 'flex';
+        document.getElementById('explanation').style.display = 'none';
+      }
+      
+    </script>
+  </head>
+  <body>
+
+    <div id="holder" class="holder">
+      <button onclick="startGame()">START</button>
+    </div>
+    <div class="quiz" id="quiz" style="display: none;">
+      <h1>Science Quiz</h1>
+      <p id="question_num">1</p>
+      <p id="question"></p>
+      <button onclick="handleAnswer()" id="ans_1">Answer 1</button><br />
+      <button onclick="handleAnswer()" id="ans_2">Answer 2</button><br />
+      <button onclick="handleAnswer()" id="ans_3">Answer 3</button><br />
+       <span style="font-size: large;">
+        Score 
+        <span id="score">0</span>
+      </span>
+    </div>
+    <div class="explaination" id="explanation">
+      <h2 id="answer_state"></h2>
+      <p id="explanation_content">{question.brief}</p>
+      <button onclick="NextQuestion()">Next</button>
+    </div>
+    <div id="music">
+      <audio id="background-music" src="game-music-loop-edite.mp3" loop style="display: none;"></audio>
+      <audio style="display: none;" id="action-music" src="/90s-game-ui-6-185099.mp3"></audio>
+    </div>
+  </body>
+</html>

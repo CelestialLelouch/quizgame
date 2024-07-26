@@ -1,0 +1,323 @@
+[
+    {
+      "question": "Which of these Elements is a metalloid?",
+      "answer": "Antimony",
+      "wrong 1": "Hydrogen",
+      "wrong 2": "Bromine",
+      "brief": "Antimony is classified as a metalloid because it has properties of both metals and nonmetals.",
+      "points": 3
+    },
+    {
+      "question": "What does LASER stand for?",
+      "answer": "Light amplification by stimulated emission of radiation",
+      "wrong 1": "Light amplification by stimulated absorption of radiation",
+      "wrong 2": "Light amplification by stimulated emission of light",
+      "brief": "Light amplification by stimulated emission of radiation (LASER) is an acronym for Light Amplification by Stimulated Emission of Radiation.",
+      "points": 3
+    },
+    {
+      "question": "The medical term for the belly button is which of the following?",
+      "answer": "Umbilicus",
+      "wrong 1": "Umbilical cord",
+      "wrong 2": "Umbilical vein",
+      "brief": "The umbilicus is the body's belly button.",
+      "points": 3
+    },
+    {
+      "question": "What is the atomic mass of Carbon?",
+      "answer": "12",
+      "wrong 1": "14",
+      "wrong 2": "16",
+      "brief": "The atomic mass of carbon is 12 atomic mass units.",
+      "points": 2
+    },
+    {
+      "question": "Which of these bones is hardest to break?",
+      "answer": "Femur",
+      "wrong 1": "Hip",
+      "wrong 2": "Knee",
+      "brief": "The femur is the hardest bone in the human body to break.",
+      "points": 3
+    },
+    {
+      "question": "Who discovered the Law of Gravity?",
+      "answer": "Sir Isaac Newton",
+      "wrong 1": "Sir Tim Berners-Lee",
+      "wrong 2": "Sir Leonardo da Vinci",
+      "brief": "Sir Isaac Newton is credited with discovering the law of gravity.",
+      "points": 3
+    },
+    {
+      "question": "Human cells typically have how many copies of each gene?",
+      "answer": "2",
+      "wrong 1": "3",
+      "wrong 2": "4",
+      "brief": "Human cells typically have two copies of each gene, one from each parent.",
+      "points": 2
+    },
+    {
+      "question": "What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?",
+      "answer": "Sputnik 1",
+      "wrong 1": "Sputnik 2",
+      "wrong 2": "Sputnik 3",
+      "brief": "Sputnik 1 was the first artificial Earth satellite, launched by the Soviet Union in 1957.",
+      "points": 3
+    },
+    {
+      "question": "Who is the chemical element Curium named after?",
+      "answer": "Marie & Pierre Curie",
+      "wrong 1": "Albert Einstein",
+      "wrong 2": "Niels Bohr",
+      "brief": "Curium is named after the famous scientists Marie and Pierre Curie.",
+      "points": 3
+    },
+    {
+      "question": "What animal takes part in Schrödinger's most famous thought experiment?",
+      "answer": "Cat",
+      "wrong 1": "Dog",
+      "wrong 2": "Human",
+      "brief": "Schrödinger's cat is a famous thought experiment in quantum mechanics.",
+      "points": 3
+    },
+    {
+      "question": "Rhinoplasty is a surgical procedure on what part of the human body?",
+      "answer": "Nose",
+      "wrong 1": "Thigh",
+      "wrong 2": "Shoulder",
+      "brief": "Rhinoplasty is a surgical procedure performed on the nose.",
+      "points": 3
+    },
+    {
+      "question": "Which of the following bones is not in the leg?",
+      "answer": "Radius",
+      "wrong 1": "Ulna",
+      "wrong 2": "Phalanges",
+      "brief": "The radius is a bone in the arm, not the leg.",
+      "points": 3
+    },
+    {
+      "question": "How many chromosomes are in your body cells?",
+      "answer": "23",
+      "wrong 1": "24",
+      "wrong 2": "25",
+      "brief": "Humans have 23 pairs of chromosomes in their body cells.",
+      "points": 3
+    },
+    {
+      "question": "What does DNA stand for?",
+      "answer": "Deoxyribonucleic Acid",
+      "wrong 1": "Nucleic Acid",
+      "wrong 2": "Nucleic Acid Dimer",
+      "brief": "DNA (Deoxyribonucleic Acid) is a double-stranded molecule composed of nucleotides.",
+      "points": 2
+    },
+    {
+      "question": "What is the unit of electrical resistance?",
+      "answer": "Ohm",
+      "wrong 1": "Volt",
+      "wrong 2": "Pascal",
+      "brief": "The unit of electrical resistance is the ohm, symbolized by Ω.",
+      "points": 2
+    },
+    {
+      "question": "What is the 'powerhouse' of the Eukaryotic animal cell?",
+      "answer": "Mitochondria",
+      "wrong 1": "Chloroplasts",
+      "wrong 2": "Nucleus",
+      "brief": "The mitochondria are known as the 'powerhouse' of the cell because they produce energy.",
+      "points": 3
+    },
+    {
+      "question": "Which Apollo mission was the first one to land on the Moon?",
+      "answer": "Apollo 11",
+      "wrong 1": "Apollo 12",
+      "wrong 2": "Apollo 13",
+      "brief": "Apollo 11 was the first mission to land humans on the Moon in 1969.",
+      "points": 3
+    },
+    {
+      "question": "Which is the most abundant element in the universe?",
+      "answer": "Hydrogen",
+      "wrong 1": "Carbon",
+      "wrong 2": "Oxygen",
+      "brief": "Hydrogen is the most abundant element in the universe.",
+      "points": 3
+    },
+    {
+      "question": "71% of the Earth's surface is made up of",
+      "answer": "Water",
+      "wrong 1": "Trees",
+      "wrong 2": "Rocks",
+      "brief": "Approximately 71% of the Earth's surface is covered by water.",
+      "points": 3
+    },
+    {
+      "question": "The biggest distinction between a eukaryotic cell and a prokaryotic cell is:",
+      "answer": "The presence or absence of a nucleus",
+      "wrong 1": "The presence or absence of a membrane",
+      "wrong 2": "The presence or absence of a chloroplast",
+      "brief": "Eukaryotic cells have a nucleus, while prokaryotic cells do not.",
+      "points": 3
+    },
+    {
+      "question": "How many bones are in the human body?",
+      "answer": "206",
+      "wrong 1": "195",
+      "wrong 2": "200",
+      "brief": "The human body has 206 bones.",
+      "points": 3
+    },
+    {
+      "question": "Which noble gas has the lowest atomic number?",
+      "answer": "Helium",
+      "wrong 1": "Argon",
+      "wrong 2": "Oxygen",
+      "brief": "Helium has the lowest atomic number among the noble gases.",
+      "points": 3
+    },
+    {
+      "question": "Which gas forms about 78% of the Earth's atmosphere?",
+      "answer": "Nitrogen",
+      "wrong 1": "Oxygen",
+      "wrong 2": "Argon",
+      "brief": "Nitrogen makes up approximately 78% of the Earth's atmosphere.",
+      "points": 3
+    },
+    {
+      "question": "What is the hottest planet in the Solar System?",
+      "answer": "Venus",
+      "wrong 1": "Earth",
+      "wrong 2": "Mars",
+      "brief": "Venus is the hottest planet in the Solar System due to its thick atmosphere.",
+      "points": 3
+    },
+    {
+      "question": "How many planets make up our Solar System?",
+      "answer": "8",
+      "wrong 1": "7",
+      "wrong 2": "9",
+      "brief": "There are eight planets in our Solar System.",
+      "points": 2
+    },
+    {
+      "question": "What is the elemental symbol for mercury?",
+      "answer": "Hg",
+      "wrong 1": "Au",
+      "wrong 2": "Al",
+      "brief": "The elemental symbol for mercury is Hg.",
+      "points": 3
+    },
+    {
+      "question": "Which of the following blood vessels carries deoxygenated blood?",
+      "answer": "Pulmonary Artery",
+      "wrong 1": "Aorta",
+      "wrong 2": "Veins",
+      "brief": "The pulmonary artery carries deoxygenated blood from the heart to the lungs.",
+      "points": 3
+    },
+    {
+      "question": "What name is given to all baby marsupials?",
+      "answer": "Joey",
+      "wrong 1": "Puffy",
+      "wrong 2": "Ginger",
+      "brief": "All baby marsupials are called joeys.",
+      "points": 3
+    },
+    {
+      "question": "Alzheimer's disease primarily affects which part of the human body?",
+      "answer": "Brain",
+      "wrong 1": "Heart",
+      "wrong 2": "Lungs",
+      "brief": "Alzheimer's disease primarily affects the brain, leading to memory loss and cognitive decline.",
+      "points": 3
+    },
+    {
+      "question": "Which element has the highest melting point?",
+      "answer": "Carbon",
+      "wrong 1": "Hydrogen",
+      "wrong 2": "Oxygen",
+      "brief": "Carbon, in the form of diamond, has the highest melting point among elements.",
+      "points": 3
+    },
+    {
+      "question": "This element, when overcome with extreme heat and pressure, creates diamonds.",
+      "answer": "Carbon",
+      "wrong 1": "Silicon",
+      "wrong 2": "Oxygen",
+      "brief": "Carbon, when overcome with extreme heat and pressure, creates diamonds.",
+      "points": 3
+    },
+    {
+      "question": "Which is the longest bone in the human body?",
+      "answer": "Femur",
+      "wrong 1": "Tibia",
+      "wrong 2": "Metatarsal",
+      "brief": "The femur, or thigh bone, is the longest bone in the human body.",
+      "points": 3
+    },
+    {
+      "question": "What is the standard SI unit for temperature?",
+      "answer": "Kelvin",
+      "wrong 1": "Celsius",
+      "wrong 2": "Fahrenheit",
+      "brief": "The standard SI unit for temperature is the Kelvin.",
+      "points": 3
+    },
+    {
+      "question": "The element involved in making human blood red is which of the following?",
+      "answer": "Iron",
+      "wrong 1": "Sodium",
+      "wrong 2": "Potassium",
+      "brief": "Iron is the element that makes human blood red due to its presence in hemoglobin.",
+      "points": 3
+    },
+    {
+      "question": "What does the letter 'S' stand for in 'NASA'?",
+      "answer": "Space",
+      "wrong 1": "Solar",
+      "wrong 2": "Sun",
+      "brief": "The 'S' in NASA stands for Space, as in National Aeronautics and Space Administration.",
+      "points": 3
+    },
+    {
+      "question": "Which element has the chemical symbol 'Fe'?",
+      "answer": "Iron",
+      "wrong 1": "Sodium",
+      "wrong 2": "Potassium",
+      "brief": "Iron is the chemical element with the chemical symbol Fe, from its Latin name 'ferrum'.",
+      "points": 3
+    },
+    {
+      "question": "Dry ice is the solid form of what substance?",
+      "answer": "Carbon dioxide",
+      "brief": "Dry ice is the solid form of carbon dioxide.",
+      "wrong 1": "Water",
+      "wrong 2": "Carbon monoxide",
+      "points": 3
+    },
+    {
+      "question": "What is the first element on the periodic table?",
+      "answer": "Hydrogen",
+      "brief": "Hydrogen is the first element on the periodic table.",
+      "wrong 1": "Carbon",
+      "wrong 2": "Oxygen",
+      "points": 3
+    },
+    {
+      "question": "How many planets are in our Solar System?",
+      "answer": "Eight",
+      "wrong 1": "Seven",
+      "wrong 2": "Nine",
+      "brief": "There are eight planets in our Solar System.",
+      "points": 2
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "answer": "Mitochondria",
+      "wrong 1": "Chloroplasts",
+      "wrong 2": "Nucleus",
+      "brief": "The mitochondria are the powerhouse of the cell, producing energy through cellular respiration.",
+      "points": 3
+    }
+  ]
+  

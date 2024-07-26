@@ -1,0 +1,139 @@
+[
+    {
+        "question": "What colour is the sky?",
+        "answer": "Blue",
+        "wrong 1": "Green",
+        "wrong 2": "Purple",
+        "brief": "The sky is blue because sunlight scatters blue light more than other colors, making it appear brighter and more spread out in the sky.",
+        "points": 1
+    },
+    {
+        "question": "What planet do we live on?",
+        "answer": "Earth",
+        "wrong 1": "Mars",
+        "wrong 2": "Jupiter",
+        "brief": "We live on Earth, which is the third planet from the Sun and the only planet known to support life.",
+        "points": 2
+    },
+    {
+        "question": "What is the largest landmass in the world?",
+        "answer": "Antarctica",
+        "wrong 1": "Africa",
+        "wrong 2": "Asia",
+        "brief": "Antarctica is the largest continent in the world, with an area of about 14,000,000 square kilometers.",
+        "points": 3
+    },
+    {
+        "question": "What do plants need to make food?",
+        "answer": "Sunlight",
+        "wrong 1": "Moonlight",
+        "wrong 2": "Starlight",
+        "brief": "Plants need sunlight to make food through a process called photosynthesis.",
+        "points": 2
+    },
+    {
+        "question": "What is the force that pulls objects toward the Earth?",
+        "answer": "Gravity",
+        "wrong 1": "Magnetism",
+        "wrong 2": "Friction",
+        "brief": "Gravity is the force that pulls objects toward the center of the Earth.",
+        "points": 2
+    },
+    {
+        "question": "What is H2O more commonly known as?",
+        "answer": "Water",
+        "wrong 1": "Oxygen",
+        "wrong 2": "Hydrogen",
+        "brief": "H2O is the chemical formula for water, which consists of two hydrogen atoms and one oxygen atom.",
+        "points": 3
+    },
+    {
+        "question": "What gas do humans need to breathe?",
+        "answer": "Oxygen",
+        "wrong 1": "Carbon Dioxide",
+        "wrong 2": "Helium",
+        "brief": "Humans need oxygen to breathe and survive; it is essential for the process of respiration.",
+        "points": 2
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "answer": "Skin",
+        "wrong 1": "Heart",
+        "wrong 2": "Liver",
+        "brief": "The skin is the largest organ of the human body, serving as a protective barrier.",
+        "points": 3
+    },
+    {
+        "question": "What do bees collect from flowers?",
+        "answer": "Nectar",
+        "wrong 1": "Leaves",
+        "wrong 2": "Stems",
+        "brief": "Bees collect nectar from flowers, which they use to make honey.",
+        "points": 2
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "answer": "100°C",
+        "wrong 1": "50°C",
+        "wrong 2": "150°C",
+        "brief": "The boiling point of water is 100 degrees Celsius at standard atmospheric pressure.",
+        "points": 3
+    },
+    {
+        "question": "What does a caterpillar turn into?",
+        "answer": "Butterfly",
+        "wrong 1": "Bee",
+        "wrong 2": "Dragonfly",
+        "brief": "A caterpillar undergoes metamorphosis to become a butterfly.",
+        "points": 2
+    },
+    {
+        "question": "What is the center of our solar system?",
+        "answer": "Sun",
+        "wrong 1": "Earth",
+        "wrong 2": "Moon",
+        "brief": "The Sun is the center of our solar system, around which all the planets orbit.",
+        "points": 3
+    },
+    {
+        "question": "What do we call animals that eat only plants?",
+        "answer": "Herbivores",
+        "wrong 1": "Carnivores",
+        "wrong 2": "Omnivores",
+        "brief": "Herbivores are animals that eat only plants.",
+        "points": 3
+    },
+    {
+        "question": "What is the process by which plants make their food?",
+        "answer": "Photosynthesis",
+        "wrong 1": "Respiration",
+        "wrong 2": "Digestion",
+        "brief": "Photosynthesis is the process by which plants make their food using sunlight, carbon dioxide, and water.",
+        "points": 2
+    },
+    {
+        "question": "What do you call a scientist who studies rocks?",
+        "answer": "Geologist",
+        "wrong 1": "Biologist",
+        "wrong 2": "Astronomer",
+        "brief": "A geologist is a scientist who studies rocks and the Earth's structure.",
+        "points": 3
+    },
+    {
+        "question": "What do plants absorb from the soil to help them grow?",
+        "answer": "Nutrients",
+        "wrong 1": "Sunlight",
+        "wrong 2": "Oxygen",
+        "brief": "Plants absorb nutrients from the soil through their roots to help them grow.",
+        "points": 1
+    },
+    {
+        "question": "Which planet is closest to the Sun?",
+        "answer": "Mercury",
+        "wrong 1": "Venus",
+        "wrong 2": "Earth",
+        "brief": "Mercury is the closest planet to the Sun in our solar system.",
+        "points": 3
+    }
+    
+]
