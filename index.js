@@ -13,29 +13,26 @@ function loadJSONSync(url) {
         console.error('Error:', request.statusText);
     }
 }
-loadJSONSync('simple_science_questions.json');
+
 
 function randomize_ans(index){
-    const value = Math.floor(Math.random() * 3)
-    let answers = [questions[index]["answer"], questions[index]["wrong 1"], questions[index]["wrong 2"]]
-    let checker = false
-    for (let i = 0; i < answers.length; i++) {
-        if(i === value){
-            answers[i] = questions[index]['answer']
-        }else 
-        if (checker === false){
-            answers[i] = questions[index]['wrong 2']
-            checker = true
-        } else {
-            answers[i] = questions[index]['wrong 1']
-            checker = false
-            
-        }
-        
+    let answers = [
+        questions[index]["answer"], 
+        questions[index]["wrong 1"], 
+        questions[index]["wrong 2"]
+    ];
+    
+    // Shuffle answers using Fisher-Yates algorithm
+    for (let i = answers.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [answers[i], answers[j]] = [answers[j], answers[i]];
     }
 
-    return answers
+    return answers;
 }
+
+
+
 function getQuestion(index = 0) {
     const answers = randomize_ans(index)
     document.getElementById('question').innerHTML = questions[index]['question']
@@ -46,12 +43,14 @@ function getQuestion(index = 0) {
 }
 
 
-window.onload = function(){
-    document.getElementById('ans_1').onclick = function(event) { handleAnswer(event); };
-    document.getElementById('ans_2').onclick = function(event) { handleAnswer(event); };
-    document.getElementById('ans_3').onclick = function(event) { handleAnswer(event); };
-    getQuestion(0)
-}
+document.addEventListener("DOMContentLoaded", function() {
+    document.getElementById('ans_1').onclick = handleAnswer;
+    document.getElementById('ans_2').onclick = handleAnswer;
+    document.getElementById('ans_3').onclick = handleAnswer;
+});
+
+
+
 function handleAnswer(event) {
     let index = Number(document.getElementById('question_num').innerHTML) - 1;
     const selectedAnswer = event.target.innerHTML;

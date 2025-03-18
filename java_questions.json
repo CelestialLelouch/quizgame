@@ -1,0 +1,82 @@
+[
+    {
+      "question": "What is the primary purpose of encapsulation in Java?",
+      "answer": "To restrict direct access to an object's data",
+      "wrong 1": "To allow global access to all variables",
+      "wrong 2": "To improve program execution speed",
+      "brief": "Encapsulation is one of the core principles of OOP, which restricts direct access to fields and ensures data integrity.",
+      "points": 3
+    },
+    {
+      "question": "Which keyword is used to inherit a class in Java?",
+      "answer": "extends",
+      "wrong 1": "implements",
+      "wrong 2": "inherits",
+      "brief": "The `extends` keyword is used to inherit a class in Java, enabling code reuse.",
+      "points": 3
+    },
+    {
+      "question": "Which keyword is used to implement an interface in Java?",
+      "answer": "implements",
+      "wrong 1": "extends",
+      "wrong 2": "inherits",
+      "brief": "The `implements` keyword is used when a class implements an interface.",
+      "points": 3
+    },
+    {
+      "question": "Which of the following is NOT a pillar of Object-Oriented Programming?",
+      "answer": "Compilation",
+      "wrong 1": "Encapsulation",
+      "wrong 2": "Polymorphism",
+      "brief": "The four main pillars of OOP are Encapsulation, Abstraction, Inheritance, and Polymorphism.",
+      "points": 3
+    },
+    {
+      "question": "Which access modifier allows a member to be accessible within the same package and by subclasses?",
+      "answer": "protected",
+      "wrong 1": "private",
+      "wrong 2": "default",
+      "brief": "The `protected` access modifier allows visibility within the same package and in subclasses.",
+      "points": 3
+    },
+    {
+      "question": "What is the default access modifier in Java?",
+      "answer": "Package-private (default)",
+      "wrong 1": "public",
+      "wrong 2": "private",
+      "brief": "If no access modifier is specified, the default access level is package-private.",
+      "points": 2
+    },
+    {
+      "question": "Which concept allows multiple methods to have the same name but different parameters?",
+      "answer": "Method Overloading",
+      "wrong 1": "Method Overriding",
+      "wrong 2": "Encapsulation",
+      "brief": "Method overloading allows multiple methods in the same class to share the same name but have different parameters.",
+      "points": 3
+    },
+    {
+      "question": "Which concept allows a subclass to provide a specific implementation of a method already defined in its superclass?",
+      "answer": "Method Overriding",
+      "wrong 1": "Method Overloading",
+      "wrong 2": "Abstraction",
+      "brief": "Method overriding allows a subclass to provide a different implementation of a method from its superclass.",
+      "points": 3
+    },
+    {
+      "question": "Which of the following is an example of abstraction in Java?",
+      "answer": "Using abstract classes and interfaces",
+      "wrong 1": "Using public instance variables",
+      "wrong 2": "Using switch statements",
+      "brief": "Abstraction is implemented in Java using abstract classes and interfaces, hiding implementation details from users.",
+      "points": 3
+    },
+    {
+      "question": "What will happen if a class does not override all abstract methods of an interface?",
+      "answer": "The class must be declared abstract",
+      "wrong 1": "The program will compile successfully",
+      "wrong 2": "The class will automatically implement missing methods",
+      "brief": "If a class does not provide implementations for all abstract methods of an interface, it must be declared abstract.",
+      "points": 3
+    }
+]

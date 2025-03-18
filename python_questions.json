@@ -1,0 +1,138 @@
+[
+    {
+      "question": "Which keyword is used to define a function in Python?",
+      "answer": "def",
+      "wrong 1": "function",
+      "wrong 2": "define",
+      "brief": "In Python, functions are defined using the 'def' keyword.",
+      "points": 3
+    },
+    {
+      "question": "What data type is the result of: 5 / 2 in Python?",
+      "answer": "float",
+      "wrong 1": "int",
+      "wrong 2": "string",
+      "brief": "The division operator '/' returns a float even if both operands are integers.",
+      "points": 3
+    },
+    {
+      "question": "What is the output of print(type([]))?",
+      "answer": "<class 'list'>",
+      "wrong 1": "<class 'tuple'>",
+      "wrong 2": "<class 'dict'>",
+      "brief": "Square brackets '[]' define an empty list in Python.",
+      "points": 3
+    },
+    {
+      "question": "Which of the following is a valid variable name in Python?",
+      "answer": "my_variable",
+      "wrong 1": "2variable",
+      "wrong 2": "my-variable",
+      "brief": "Variable names in Python must start with a letter or underscore and cannot contain dashes.",
+      "points": 3
+    },
+    {
+      "question": "Which built-in function returns the number of elements in a list?",
+      "answer": "len()",
+      "wrong 1": "count()",
+      "wrong 2": "size()",
+      "brief": "The 'len()' function returns the number of items in an iterable like a list or string.",
+      "points": 3
+    },
+    {
+      "question": "What will be the output of 'print(3 * 'Hello')'?",
+      "answer": "HelloHelloHello",
+      "wrong 1": "Error",
+      "wrong 2": "Hello * 3",
+      "brief": "Multiplying a string by an integer repeats the string that many times.",
+      "points": 3
+    },
+    {
+      "question": "Which of the following is a valid way to create an empty set?",
+      "answer": "set()",
+      "wrong 1": "{}",
+      "wrong 2": "emptySet()",
+      "brief": "The '{}' syntax creates an empty dictionary, while 'set()' creates an empty set.",
+      "points": 3
+    },
+    {
+      "question": "What does 'elif' stand for in Python?",
+      "answer": "Else if",
+      "wrong 1": "Else loop",
+      "wrong 2": "Else continue",
+      "brief": "The 'elif' keyword is used for multiple conditional branches in an if-elif-else structure.",
+      "points": 3
+    },
+    {
+      "question": "Which operator is used to check if two values are equal in Python?",
+      "answer": "==",
+      "wrong 1": "=",
+      "wrong 2": "===",
+      "brief": "The '==' operator checks for equality, while '=' is used for assignment.",
+      "points": 3
+    },
+    {
+      "question": "Which function is used to read user input in Python?",
+      "answer": "input()",
+      "wrong 1": "read()",
+      "wrong 2": "get()",
+      "brief": "The 'input()' function allows users to enter data via the keyboard.",
+      "points": 3
+    },
+    {
+      "question": "Which keyword is used to exit a loop prematurely?",
+      "answer": "break",
+      "wrong 1": "exit",
+      "wrong 2": "return",
+      "brief": "The 'break' statement is used to exit a loop before it finishes all iterations.",
+      "points": 3
+    },
+    {
+      "question": "What is the default return value of a function that does not return anything?",
+      "answer": "None",
+      "wrong 1": "0",
+      "wrong 2": "False",
+      "brief": "If a function does not explicitly return a value, it returns 'None' by default.",
+      "points": 3
+    },
+    {
+      "question": "What is the correct way to open a file for reading?",
+      "answer": "open('file.txt', 'r')",
+      "wrong 1": "open('file.txt', 'w')",
+      "wrong 2": "open('file.txt', 'rb')",
+      "brief": "The mode 'r' is used to open a file for reading.",
+      "points": 3
+    },
+    {
+      "question": "What is the result of 'bool([])'?",
+      "answer": "False",
+      "wrong 1": "True",
+      "wrong 2": "None",
+      "brief": "Empty lists evaluate to False in a boolean context.",
+      "points": 3
+    },
+    {
+      "question": "Which keyword is used to create a class in Python?",
+      "answer": "class",
+      "wrong 1": "define",
+      "wrong 2": "object",
+      "brief": "The 'class' keyword is used to define a class in Python.",
+      "points": 3
+    },
+    {
+      "question": "What is the result of 'int('10.5')' in Python?",
+      "answer": "Error",
+      "wrong 1": "10",
+      "wrong 2": "10.5",
+      "brief": "Converting a string with a decimal to an integer directly causes an error.",
+      "points": 3
+    },
+    {
+      "question": "What is the correct way to create a list with numbers 1 to 5?",
+      "answer": "[1, 2, 3, 4, 5]",
+      "wrong 1": "list(1,2,3,4,5)",
+      "wrong 2": "{1, 2, 3, 4, 5}",
+      "brief": "Lists in Python are created using square brackets [].",
+      "points": 3
+    }
+]
